@@ -1,6 +1,6 @@
 # 🩺 Medical Cost Prediction App
 
-This is a simple Streamlit web app that predicts **medical insurance costs** based on user inputs like age, BMI, smoking status, and more — using a **Linear Regression model**.
+This is a Streamlit web app that predicts **medical insurance costs** based on user inputs like age, BMI, smoking status, and more — using a **Linear Regression model**.
 
 ---
 
@@ -19,6 +19,8 @@ This is a simple Streamlit web app that predicts **medical insurance costs** bas
 ---
 
 ## 📊 Demo
+
+![App Screenshot](c:\Users\admin\Pictures\Screenshots\Screenshot (164).png)
 
 Try the live app here:  
 👉 [Live on Streamlit Cloud](https://medicalcostprediction-jy.streamlit.app/)
