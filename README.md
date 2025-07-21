@@ -20,7 +20,7 @@ This is a Streamlit web app that predicts **medical insurance costs** based on u
 
 ## 📊 Demo
 
-![App Screenshot](c:\Users\admin\Pictures\Screenshots\Screenshot (164).png)
+![App Screenshot](Screenshot (164).png)
 
 Try the live app here:  
 👉 [Live on Streamlit Cloud](https://medicalcostprediction-jy.streamlit.app/)
